@@ -1,0 +1,11 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20vh auto;
+  width: 340px;
+  border: 1px dashed black;
+  text-transform: uppercase;
+  padding: 20px;
+  background: rgba(20, 200, 136, 0.2);
+}

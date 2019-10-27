@@ -1,0 +1,10 @@
+.root {
+  display: flex;
+  margin-top: 20vh;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.sized {
+  width: 20px;
+}

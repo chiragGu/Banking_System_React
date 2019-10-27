@@ -1,0 +1,46 @@
+.wallet-root {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 150px auto 0 auto;
+  padding: 2%;
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid black;
+}
+
+.title {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+}
+
+.wallet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+
+.wallet-balance {
+  font-size: 130px;
+}
+.wallet-balance .small {
+  font-size: 30px;
+}
+
+.btn-wallet {
+  height: 30px;
+  width: 100px;
+  outline: none;
+  text-transform: uppercase;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: rgb(149, 247, 154);
+  border: 1px solid rgb(104, 172, 132);
+}
+
+.btn-wallet:hover {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background: rgba(149, 247, 190, 1);
+}

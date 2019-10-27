@@ -1,0 +1,17 @@
+.navbar {
+  padding: 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background: rgba(113, 169, 90, 0.5);
+  padding: 10px;
+}
+
+.navitem {
+  text-decoration: none;
+  text-transform: capitalize;
+  color:black;
+  font-weight: 600;
+  font-size: 16px;
+}
