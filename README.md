@@ -1,15 +1,6 @@
-# Banking_System_CHIRAG_TITIKSHA
-Management interface for banking application A.K.A. Watermelon
-
-
 ## Available Scripts
 
 In the project directory, you can run:
-
-
-### 'npm run bank'
-
-Installs all the dependencies. 
 
 ### `npm start`
 
