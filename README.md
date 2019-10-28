@@ -1,3 +1,8 @@
+## Team Members
+
+Chirag Gupta
+Titiksha Apte
+
 ## Available Scripts
 
 In the project directory, you can run:
