@@ -1,6 +1,6 @@
 ## Team Members
 
-Chirag Gupta
+Chirag Gupta ,
 Titiksha Apte
 
 ## Available Scripts
