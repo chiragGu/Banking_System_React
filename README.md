@@ -4,7 +4,7 @@ In the project directory, you can run:
 
 ### 'npm run bank'
 
-Installs all the essesntials for the project
+Installs all the essesntial node dependencies for the project
 
 ### `npm start`
 
