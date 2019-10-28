@@ -1,5 +1,6 @@
 {
   "name": "bank",
+  "description": "Chirag Gupta, Titiksha Apte",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
