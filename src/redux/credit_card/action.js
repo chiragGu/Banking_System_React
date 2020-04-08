@@ -47,6 +47,8 @@ export const removeCard = data => dispatch => {
 export const setCard = data => {
   return {
     type: type.ADD_CARD,
+    
     payload: data
   };
 };
+
