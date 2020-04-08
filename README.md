@@ -1,7 +1,6 @@
 ## Team Members
 
-Chirag Gupta ,
-Titiksha Apte
+Abhishek Sethi , Chirag Gupta , Meghna Sharma , Vasudha Jha
 
 ## Available Scripts
 
